@@ -1,0 +1,3 @@
+rootProject.name = 'kart-racing'
+include 'flat-files'
+
